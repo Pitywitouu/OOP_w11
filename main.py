@@ -1,3 +1,8 @@
+"""
+MSSV: 202418985
+Họ tên: Nguyễn Phú Thái
+"""
+
 from emergency.alarm import Alarm
 from emergency.door_controller import DoorController
 from emergency.emergency_mediator import EmergencyMediator
